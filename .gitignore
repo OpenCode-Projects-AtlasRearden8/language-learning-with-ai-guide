@@ -1,0 +1,9 @@
+# Build artifacts
+site/
+__pycache__/
+*.py[cod]
+
+# Editor / OS noise
+*.swp
+.DS_Store
+Thumbs.db
