@@ -1,9 +1,15 @@
-# Build artifacts
-site/
-__pycache__/
-*.py[cod]
 
+# Build artifacts
 # Editor / OS noise
+*.py[cod]
+*.pyc
 *.swp
 .DS_Store
+.env
+.env.*
+.venv/
 Thumbs.db
+__pycache__/
+dist/*.tmp
+node_modules/
+site/
